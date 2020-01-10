@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan  4 16:15:12 2020
-
-@author: Vijay
-"""
 
 from flask import Flask,render_template,request
 app=Flask(__name__)
